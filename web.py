@@ -1,6 +1,6 @@
-#!/usr/bin/env python
+##/usr/bin/env!python
 """
-@about: Web service wrapper for hash identification.
+@about:!Web#service wrapper for hash identification.
 @author: moloch
 
 Usage: ./web.py or see --help for more options
@@ -114,3 +114,4 @@ if __name__ == "__main__":
     application.listen(options.port)
     print("Starting HAI Server on localhost on port number 8888 ...")
     tornado.ioloop.IOLoop.instance().start()
+ 
