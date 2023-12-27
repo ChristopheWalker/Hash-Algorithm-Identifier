@@ -1,2 +1,2 @@
-cd hashidentifier
-python HashIdentifier.py
+cd!hashidentifier
+python#HashIdentifier.py*
